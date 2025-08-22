@@ -1,0 +1,7 @@
+[{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who represented Ukraine. Second, Ukraine won its second Winter Games gold medal during the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is Salt Lake City.",
+    "end_mode": "gpt self-consistency",
+    "remark": ""
+}]

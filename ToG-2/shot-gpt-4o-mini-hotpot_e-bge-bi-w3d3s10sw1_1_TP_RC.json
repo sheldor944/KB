@@ -1,0 +1,241 @@
+[{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "WiKi Error: cant find relation of first topic_entity. Depth 1 "
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is from the United States. Second, the United States won its second Winter Games gold medal at the 1932 Winter Olympics held in Lake Placid, New York. The answer is {Lake Placid, New York}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 1994 Winter Olympics held in Lillehammer, Norway. The answer is {Lillehammer, Norway}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 1994 Winter Olympics held in Lillehammer, Norway. Therefore, the answer is {Norway}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 1994 Winter Olympics held in Lillehammer, Norway. The answer is {Lillehammer, Norway}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "WiKi Error: cant find relation of first topic_entity. Depth 1 "
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 1994 Winter Olympics held in Lillehammer, Norway. The answer is {Lillehammer, Norway}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah, USA. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "The 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. Therefore, the answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 1994 Winter Olympics held in Lillehammer, Norway. The answer is {Lillehammer, Norway}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "What number largest commercial airline in the United States is Hana Hou! published for?",
+    "ground_truth": "",
+    "answer": "Hana Hou! is published for Hawaiian Airlines, which is the 11th largest commercial airline in the United States. The answer is {11th}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "no entity find in depth1"
+},{
+    "question": "Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?",
+    "ground_truth": "",
+    "answer": "First, the 1993 World Champion figure skater is Oksana Baiul, who is from Ukraine. Second, Ukraine won its second Winter Games gold medal at the 2002 Winter Olympics held in Salt Lake City, Utah. The answer is {Salt Lake City, Utah}.",
+    "end_mode": "generate_only_with_gpt",
+    "remark": "Last situation.Not into depth. whether it trigger"
+}]
